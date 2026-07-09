@@ -1,8 +1,11 @@
 ## Ohayo~ 👋
 Autistic trans woman and creative multidisciplinary professional working as an author, game developer, graphic designer, content creator, and musician.
 
-- ❓ Informational: This user is plural, which means they have multiple persons/identities within the same body. Any words or code contributed are representative of the individual alter and not neccesarily the body as a whole.
-- 💼 CEO and Founder of [Nexxus Drako Multimedia](https://github.com/NexxusDrakoMultimedia)
+- ❓ Informational: This user is plural, which means they have multiple persons/identities within the same body. Any words or code contributed are representative of the individual alter and not necessarily reflective of the system as a whole. See [Plural System Info](https://system.rockett.space/gen.html?s=hkzstf)
+- 💼 Founder & Creative Director of [Nexxus Drako Multimedia](https://github.com/NexxusDrakoMultimedia) · Self-employed (Mar 2017 - Present)
+- 🌐 Website: [nexxusdrako.au](https://nexxusdrako.au/)
+- 💼 LinkedIn: [linkedin.com/in/pyra-drake](https://www.linkedin.com/in/pyra-drake/)
+- 🎓 Currently studying Diploma of Information Technology (Advanced Networking and Cloud Engineering) at TAFE Queensland (Jul 2026 – Jun 2028)
 - 🔭 Currently working on Video Games/Mods.
 - 🌱 Currently learning Graphic Design.
 - 💬 Ask about video game modding.
@@ -15,6 +18,7 @@ Autistic trans woman and creative multidisciplinary professional working as an a
 - ⚡ Fun fact 3: Former volunteer for both the Albury Greens and the LGBTI Legal Service Queensland.
 - ⚡ Fun fact 4: Enjoys playing tabletop games like D&D, Magic, 7 Wonders and Coup.
 - ⚡ Fun fact 5: Ham radio licensed under callsigns VK4PKD and VK4UWU.
+- ⚡ Fun fact 6: Business and Technology Student of the Year (TAFE NSW, Jan 2019) — Shared the honour with three others, recognized for completing assessments weeks early and helping peers navigate technical concepts and language barriers.
 - ⚠️ Warning: If this account stops being active, we've either had a schizophrenic episode, a PTSD/AuDHD episode, lost our 2FA keys, or any combo of the 3.
 
 Projects Developed:
