@@ -2,7 +2,7 @@
 
 Autistic trans woman and creative multidisciplinary professional working as an author, game developer, graphic designer, content creator, and musician.
 
-- ❓ Informational: This user is plural, which means they have multiple persons/identities within the same body. Any words or code contributed are representative of the individual alter and not necessarily reflective of the system as a whole. See [Plural System Info](https://system.rockett.space/gen.html?s=hkzstf)
+- ❓ Informational: This user is plural, which means they have multiple persons/identities within the same body. Any words or code contributed are representative of the individual alter and not necessarily reflective of the system as a whole. See [Plural System Info](https://system.rockett.space/gen.html?s=hkzstf) for more.
 - 💼 Founder & Creative Director of [Nexxus Drako Multimedia](https://github.com/NexxusDrakoMultimedia) · Self-employed (Mar 2017 – Present)
 - 🌐 Website: [nexxusdrako.au](https://nexxusdrako.au/)
 - 🎓 Certificate III in Information Technology (Networking), TAFE NSW Albury
