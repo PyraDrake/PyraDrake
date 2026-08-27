@@ -17,7 +17,7 @@ Autistic trans woman and creative multidisciplinary professional working as an a
 - ⚡ Fun fact 2: Received a Credit on a UNSW Year 6 computing exam.
 - ⚡ Fun fact 3: Former volunteer for both the Albury Greens and the LGBTI Legal Service Queensland.
 - ⚡ Fun fact 4: Enjoys playing tabletop games like D&D, Magic, 7 Wonders and Coup.
-- ⚡ Fun fact 5: Ham radio licensed under callsigns VK4PKD and VK4UWU.
+- ⚡ Fun fact 5: Ham radio licensed under VK4PKD, plus VK4UWU for Pride Radio Group and League of Furry Amateur Radio operating.
 - ⚡ Fun fact 6: Nominated Business and Technology Student of the Year at TAFE NSW Albury in 2019, sharing the honour with three others.
 - ⚠️ Warning: If this account stops being active, we've either had a schizophrenic episode, a PTSD/AuDHD episode, lost our 2FA keys, or any combo of the 3.
 
