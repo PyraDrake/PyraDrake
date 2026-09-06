@@ -6,11 +6,11 @@ Autistic sapphic furry, plural demigirl, VTuber, and creative jack-of-all-trades
 - 💼 Founder & Creative Director of [Nexxus Drako Multimedia](https://github.com/NexxusDrakoMultimedia) · Self-employed (Mar 2017 – Present)
 - 🌐 Website: [nexxusdrako.au](https://nexxusdrako.au/)
 - 🎓 Certificate III in Information Technology (Networking), TAFE NSW Albury
-- 🔭 Currently working on video games and mods.
+- 🔭 Currently working on music, geofiction, and games.
 - 🌱 Currently learning graphic design, plus networking, cloud and local AI as a hobby.
-- 💬 Ask about video game modding.
-- 📫 Contact: nexxus@nexxusdrako.au
-- 😄 Pronouns: she/plural they
+- 💬 Ask about video game modding, music, or worldbuilding.
+- 📫 Contact: nexxus@nexxusdrako.au / +61 411 919 793
+- 😄 Pronouns: she/they
 - 🎲 Hobbies: STEM, Music, Gaming (Tabletop, Card, Video), Sports, and Fitness
 - ⚾ Favourite Teams: Brisbane Lions, Brisbane Broncos, Queensland Maroons, McLaren F1 and Manchester United
 - ⚡ Fun fact 1: Was a district orienteering champion in 6th grade.
@@ -19,6 +19,7 @@ Autistic sapphic furry, plural demigirl, VTuber, and creative jack-of-all-trades
 - ⚡ Fun fact 4: Enjoys playing tabletop games like D&D, Magic, 7 Wonders and Coup.
 - ⚡ Fun fact 5: Ham radio licensed under VK4PKD, plus VK4UWU for Pride Radio Group and League of Furry Amateur Radio operating.
 - ⚡ Fun fact 6: Nominated Business and Technology Student of the Year at TAFE NSW Albury in 2019, sharing the honour with three others.
+- ⚡ Fun fact 7: Was a Blue House Captain in Year 6 in a three-way tie for two spots.
 - ⚠️ Warning: If this account stops being active, we've either had a schizophrenic episode, a PTSD/AuDHD episode, lost our 2FA keys, or any combo of the 3.
 
 ### Projects Developed
